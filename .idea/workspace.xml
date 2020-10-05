@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46972516-9e9f-49e3-b9bb-dacbfd789fe8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1heYkaC5wfoIpqxDqzpVA58qHIa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46972516-9e9f-49e3-b9bb-dacbfd789fe8" name="Default Changelist" comment="" />
+      <created>1600373168866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600373168866</updated>
+      <workItem from="1600373169910" duration="749000" />
+      <workItem from="1600376134151" duration="58000" />
+      <workItem from="1600376251105" duration="30000" />
+      <workItem from="1600376304755" duration="781000" />
+      <workItem from="1600377464750" duration="624000" />
+      <workItem from="1600378172587" duration="12567000" />
+      <workItem from="1600395997187" duration="58000" />
+      <workItem from="1600409611455" duration="761000" />
+      <workItem from="1600415052972" duration="65000" />
+      <workItem from="1600419494751" duration="224000" />
+      <workItem from="1600423609818" duration="201000" />
+      <workItem from="1600594492948" duration="858000" />
+      <workItem from="1600599319635" duration="880000" />
+      <workItem from="1600601485822" duration="364000" />
+      <workItem from="1600602295164" duration="263000" />
+      <workItem from="1600602580458" duration="290000" />
+      <workItem from="1600777854334" duration="1012000" />
+      <workItem from="1600789636428" duration="149000" />
+      <workItem from="1600806651912" duration="1143000" />
+      <workItem from="1600815062572" duration="205000" />
+      <workItem from="1600842698301" duration="258000" />
+      <workItem from="1600843815753" duration="66000" />
+      <workItem from="1601017330388" duration="452000" />
+      <workItem from="1601018655057" duration="374000" />
+      <workItem from="1601021330806" duration="111000" />
+      <workItem from="1601878155695" duration="401000" />
+      <workItem from="1601909061887" duration="317000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="699" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600393082433">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="699" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.811@0.23.1440.811" timestamp="1600393082433" />
+  </component>
+</project>
